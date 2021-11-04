@@ -1,0 +1,24 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+  }
+  
+body {
+    font-family: Apple SD Gothic Neo;
+}
+
+// AddScheduleDialog
+.add-schedule-dialog h1 {
+    font-size: 28px;
+    line-height: 1.214285714285714;
+    color: #000000;
+}
+
+.close-button {
+    background: #fff url("/image/close.svg") 00 no-repeat;
+    position: absolute;
+    border: none;
+    background-size: 100%;
+    cursor: pointer;
+}
